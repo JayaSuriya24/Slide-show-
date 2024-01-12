@@ -5,6 +5,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: monospace;
 }
 .slider{
     position: relative;
@@ -32,6 +33,7 @@ body{
     background-color: transparent;
     border: none;
     font-size: xxx-large;
+    font-family: monospace;
     font-weight: bold;
     left: 50px;
     cursor: pointer;
